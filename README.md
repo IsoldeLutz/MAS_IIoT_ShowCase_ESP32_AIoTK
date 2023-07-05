@@ -54,19 +54,19 @@ dort sind folgende Eingaben notwendig:
 
 1. Wifi SSID und Passwort des für das ESP32-Modul bereitgestellten WLAN-Zugangs
 
-![Ein Bild, das Text, Software, Webseite, Screenshot enthält.
+![](Aspose.Words.42bfea57-d508-4d94-8732-83c6158e8930.001.png)
 
 Automatisch generierte Beschreibung](Aspose.Words.e1eb0883-57e7-4a56-934a-dc451c859a43.001.png)
 
 1. Azure-Device Daten (primary key, ID scope, Device ID)
 
-![Ein Bild, das Text, Schrift, Software, Screenshot enthält.
+![](Aspose.Words.bfe04af4-b2cf-4cd3-9d03-4ceca368bdbb.001.png)
 
 Automatisch generierte Beschreibung](Aspose.Words.e1eb0883-57e7-4a56-934a-dc451c859a43.002.png)
 
 1. TLS-Server Einstellungen (bei Fehlermeldung zu peer-certificate validation im *idf.py … monitor* Befehl, was aufgrund eines veralteten Azure root-certificate im sample Code der Fall sein kann)
 
-![Ein Bild, das Text, Software, Screenshot, Webseite enthält.
+![](Aspose.Words.e9a0c67d-a007-434e-8d31-0f7327f90a2d.001.png)
 
 Automatisch generierte Beschreibung](Aspose.Words.e1eb0883-57e7-4a56-934a-dc451c859a43.003.png)
 
